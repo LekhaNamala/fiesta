@@ -1,6 +1,6 @@
 # Site settings
 title: Imagine Jekyll Theme
-email: youremailaddress@gmail.com
+email: lekha24.namala@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Create a strong and memorable first impression with a free one-page business website template, Imagine. 
   This remarkable site canvas has a clean and minimalistic look that will display your content beautifully. 
@@ -10,9 +10,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   It is released under the Creative Commons.
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://icheft.github.io/imagine-jekyll-theme # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  yourname
+github_username:  
 author: icheft
-
+yourname
 
 # Build settings
 markdown: kramdown
