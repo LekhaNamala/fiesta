@@ -10,9 +10,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   It is released under the Creative Commons.
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://icheft.github.io/imagine-jekyll-theme # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  
-author: icheft
-yourname
+github_username: yourname
+author: icheft 
 
 # Build settings
 markdown: kramdown
